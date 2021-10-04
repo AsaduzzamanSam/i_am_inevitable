@@ -10,8 +10,6 @@ void main() {
         backgroundColor: Colors.blueGrey[900],
       ),
       body: Container(
-
-      
         decoration: BoxDecoration(
           image: DecorationImage(
             fit: BoxFit.fill,
